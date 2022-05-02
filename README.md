@@ -1,3 +1,3 @@
 # line-bot-web
 
-init
+init heroku
